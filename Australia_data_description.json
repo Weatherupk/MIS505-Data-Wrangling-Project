@@ -1,0 +1,18 @@
+{
+    "Country Name": {
+        "data_type": "string",
+        "description": "Name of the country"
+    },
+    "Year": {
+        "data_type": "integer",
+        "description": "Year of observation (2001-2020)"
+    },
+    "Primary Enrollment": {
+        "data_type": "float",
+        "description": "Net enrollment rate in primary education, expressed as percentage of the official school-age population"
+    },
+    "GDP": {
+        "data_type": "float",
+        "description": "GDP per capita in current US dollars"
+    }
+}
